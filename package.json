@@ -1,0 +1,11 @@
+{
+  "name": "prueba-1",
+  "version": "1.0.0",
+  "description": "Prueba 1 Prog IV",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Fernando Orellana",
+  "license": "ISC"
+}
